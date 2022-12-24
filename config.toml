@@ -64,8 +64,8 @@ title = 'Saham Fun'
 
   [params.map]
   APIkey = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"
-  latitude = "-7.419553"
-  longitude = "109.26126"
+  latitude = "106.806039"
+  longitude = "-6.268991"
   pinImage = "images/pin.png"
 
   # Socail icons
