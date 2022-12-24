@@ -1,5 +1,5 @@
 ---
-title: "CoHub Privacy & Policy "
+title: "Privacy & Policy "
 date: 2022-01-08T12:51:52+06:00
 subtitle: >
           Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.
