@@ -2,7 +2,7 @@ baseURL = 'https://cohub-hugo.netlify.app'
 languageCode = 'en-us'
 paginate = 6
 theme= "coHub"
-title = 'coHub'
+title = 'Saham Fun'
  
 [Menu]
   # Main Menu
