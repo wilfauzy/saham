@@ -53,19 +53,19 @@ title = 'Saham Fun'
   googleAnalytics = "G-JZ95FEWF9K"
   logo = "images/logo.png"
   footerlogo = "images/logo.png"
-  footerDescription = "Saham fun adalah aplikasi untuk kamu yang ingin berdiskusi, analisa dan investasi saham dalam satu tempat."
+  footerDescription = "Saham.fun adalah aplikasi untuk kamu yang ingin berdiskusi, analisa dan investasi saham dalam satu tempat."
 
   [params.address]
   address = "Senopati 18th St. <br>  South Jakarta, ID 10011"
   email = "hello@saham.fun"
   openingDesc = "Give us a call or drop by anytime, we endeavour to answer all enquiries within 24 hours on business days."
-  openingHours = "We are open from 7am — 7pm week days."
-  phone = "+(021) 833 5272 3"
+  openingHours = "We are open from 9am — 3pm week days."
+  phone = "+(021) 833 5272"
 
   [params.map]
   APIkey = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"
-  latitude = "106.806039"
-  longitude = "-6.268991"
+  latitude = "-6.268991"
+  longitude = "106.806039"
   pinImage = "images/pin.png"
 
   # Socail icons
