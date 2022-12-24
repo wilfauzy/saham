@@ -1,4 +1,4 @@
-baseURL = 'https://saham.fun'
+baseURL = '/'
 languageCode = 'en-us'
 paginate = 6
 theme= "coHub"
@@ -16,7 +16,7 @@ title = 'Saham Fun'
   weight = 1
   [[menu.Main]]
   name = "About"
-  url= "https://saham.fun/about/"
+  url= "/about/"
   weight = 3
   [[menu.Main]]
   name = "Blog"
@@ -32,7 +32,7 @@ title = 'Saham Fun'
   weight = 6
   [[menu.Main]]
   name = "Contact"
-  url= "https://saham.fun/contact/"
+  url= "/contact/"
   weight = 7
 
   # Sitemap Menu
