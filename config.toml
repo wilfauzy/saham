@@ -7,7 +7,7 @@ title = 'Saham Fun'
 [Menu]
   # Main Menu
   [[menu.Main]]
-  name = "Exibhition"
+  name = "Gallery"
   url= "#gallery"
   weight = 1
   [[menu.Main]]
@@ -48,24 +48,24 @@ title = 'Saham Fun'
 [params]
   aboutPageURL = "blog"
   contactLink = "contact"
-  copyright = "© {year} <a href=\"https://staticmania.com/\" target=\"_blank\">StaticMania </a>"
+  copyright = "© {year} <a href=\"https://brek.my.id/\" target=\"_blank\">NgoBrek! </a>"
   fabFormURL =  "https://fabform.io/f/u00kv3-"
   googleAnalytics = "G-JZ95FEWF9K"
   logo = "images/logo.png"
   footerlogo = "images/logo.png"
-  footerDescription = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit quia ab, natus fugiat voluptas saepe ipsum animi officiis in molestiae?"
+  footerDescription = "Saham fun adalah aplikasi untuk kamu yang ingin berdiskusi, analisa dan investasi saham dalam satu tempat."
 
   [params.address]
   address = "Senopati 18th St. <br>  South Jakarta, ID 10011"
   email = "hello@saham.fun"
   openingDesc = "Give us a call or drop by anytime, we endeavour to answer all enquiries within 24 hours on business days."
   openingHours = "We are open from 7am — 7pm week days."
-  phone = "+(448) 833 5272 332"
+  phone = "+(021) 833 5272 3"
 
   [params.map]
   APIkey = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"
-  latitude = "45.4502528"
-  longitude = "-122.783407"
+  latitude = "-7.419553"
+  longitude = "109.26126"
   pinImage = "images/pin.png"
 
   # Socail icons
