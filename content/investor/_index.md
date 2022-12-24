@@ -1,0 +1,33 @@
+---
+title: "Our Angel Investors"
+enable: true
+date: 2022-01-08T12:51:52+06:00
+subtitle: >
+          Nulla quis lorem ut libero malesuada feugiat. Vivamus magna justo, lacinia eget consectetur sed, 
+          convallis at tellus. Nulla quis lorem ut libero malesuada feugiat.
+investor:
+  - name: "Spider Web"
+    post: "investor"
+    image: "images/team/design-team-01.jpg"
+  - name: "yrban"
+    post: "investor"
+    image: "images/team/design-team-02.jpg"
+  - name: "staticsoft"
+    post: "investor"
+    image: "images/team/design-team-03.jpg"
+  - name: "jackmaster"
+    post: "investor"
+    image: "images/team/marketing-team-01.jpg"
+  - name: "Franc Marketing"
+    post: "investor"
+    image: "images/team/marketing-team-05.jpg"
+  - name: "British Marketer"
+    post: "investor"
+    image: "images/team/marketing-team-03.jpg"
+  - name: "Spider Web"
+    post: "investor"
+    image: "images/team/design-team-01.jpg"
+  - name: "yrban"
+    post: "investor"
+    image: "images/team/design-team-02.jpg"
+---
