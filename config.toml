@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://saham.fun/'
 languageCode = 'en-us'
 paginate = 6
 theme= "coHub"
