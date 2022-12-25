@@ -11,7 +11,7 @@ title = 'Saham Fun'
   url= "#gallery"
   weight = 1
   [[menu.Main]]
-  name = "Feature"
+  name = "Service"
   url= "#service"
   weight = 1
   [[menu.Main]]
