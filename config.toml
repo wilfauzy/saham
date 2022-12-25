@@ -7,12 +7,12 @@ title = 'Saham Fun'
 [Menu]
   # Main Menu
   [[menu.Main]]
-  name = "Gallery"
-  url= "#gallery"
-  weight = 1
-  [[menu.Main]]
   name = "Service"
   url= "#service"
+  weight = 1
+  [[menu.Main]]
+  name = "Gallery"
+  url= "#gallery"
   weight = 1
   [[menu.Main]]
   name = "About"
